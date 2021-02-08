@@ -1,5 +1,6 @@
 import torch
 torch.backends.cudnn.benchmark=True
+
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
